@@ -3,6 +3,6 @@ rowerMiejski
 
 Rower Miejski Szczecin - Web Components
 
-#####[Check Demo](http://blnight.github.io/rowerMiejski)
+#####[Check Demo](http://karol-f.github.io/rowerMiejski)
 
-#####[Presentation](http://blnight.github.io/webComponentsPresentation)
+#####[Presentation](http://karol-f.github.io/webComponentsPresentation)
